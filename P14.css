@@ -1,0 +1,29 @@
+body{
+	background-color: lightblue; 
+}
+
+h1{
+	font-family:  Bookman Old Style
+	font-size:20px;
+	color:purple;
+	text-align:right;
+	
+}
+
+h2{
+	font-family:  Bookman Old Style
+	font-size:40px;
+	color:Red;
+	text-align:center;
+	
+}
+input{
+	font-family:  Bookman Old Style
+	font-size:15px;
+	color:pink;
+	text-align:center;
+	
+
+}
+
+}
